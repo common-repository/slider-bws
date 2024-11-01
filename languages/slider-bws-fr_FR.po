@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-06-12 17:05+0300\n"
+"PO-Revision-Date: 2024-06-12 17:11+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: includes/class-sldr-category-list-table.php:70
+#: includes/class-sldr-list-table.php:109
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/class-sldr-category-list-table.php:71
+#: includes/class-sldr-category-list-table.php:136
+#: includes/class-sldr-list-table.php:110
+#: includes/class-sldr-list-table.php:217
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/class-sldr-category-list-table.php:103 slider-bws.php:682
+#: slider-bws.php:722
+msgid "Name"
+msgstr "Nom"
+
+#: includes/class-sldr-category-list-table.php:104
+msgid "Count"
+msgstr "Nombre"
+
+#: includes/class-sldr-category-list-table.php:105
+#: includes/class-sldr-list-table.php:148
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/class-sldr-category-list-table.php:114
+msgid "No Categories Found"
+msgstr "Pas de catégories trouvées"
+
+#: includes/class-sldr-list-table.php:21 slider-bws.php:1002
+msgid "slider"
+msgstr "diaporama"
+
+#: includes/class-sldr-list-table.php:22
+msgid "sliders"
+msgstr "Diapositives"
+
+#: includes/class-sldr-list-table.php:113 slider-bws.php:1010
+msgid "no title"
+msgstr "pas de titre"
+
+#: includes/class-sldr-list-table.php:144
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: includes/class-sldr-list-table.php:145
+#: includes/class-sldr-media-table.php:153
+msgid "Title"
+msgstr "Titre"
+
+#: includes/class-sldr-list-table.php:146 includes/class-sldr-settings.php:40
+msgid "Images"
+msgstr "Images"
+
+#: includes/class-sldr-list-table.php:147
+msgid "Category"
+msgstr "Catégorie"
+
+#: includes/class-sldr-list-table.php:149
+msgid "Date"
+msgstr "Date"
+
+#: includes/class-sldr-list-table.php:158
+msgid "No Sliders Found"
+msgstr "Aucun Diaporama trouvé"
+
+#: includes/class-sldr-list-table.php:196
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+#: includes/class-sldr-list-table.php:204
+msgid "Filter"
+msgstr "Filtre"
+
+#: includes/class-sldr-media-table.php:33
+msgid "No images found."
+msgstr "Aucune image trouvée."
+
+#: includes/class-sldr-media-table.php:99
+msgid "Bulk Select"
+msgstr "Sélection en masse"
+
+#: includes/class-sldr-media-table.php:100
+msgid "Cancel Selection"
+msgstr "Annuler la sélection"
+
+#: includes/class-sldr-media-table.php:101
+msgid "Delete Selected"
+msgstr "Supprimer la sélection"
+
+#: includes/class-sldr-media-table.php:131
+msgid "Remove Image from Slider"
+msgstr "Supprimer l'image de la barre de défilement"
+
+#: includes/class-sldr-media-table.php:134
+msgid "Edit Image Info"
+msgstr "Modifier les informations sur l'image"
+
+#: includes/class-sldr-media-table.php:135
+msgid "Deselect"
+msgstr "Désélectionner"
+
+#: includes/class-sldr-media-table.php:144
+msgid "File name"
+msgstr "Nom du fichier"
+
+#: includes/class-sldr-media-table.php:145
+msgid "File type"
+msgstr "Type de fichier"
+
+#: includes/class-sldr-media-table.php:147
+msgid "Dimensions"
+msgstr "Dimensions"
+
+#: includes/class-sldr-media-table.php:158
+msgid "Description"
+msgstr "Description"
+
+#: includes/class-sldr-media-table.php:162
+msgid "Button URL"
+msgstr "URL du bouton"
+
+#: includes/class-sldr-media-table.php:167
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: includes/class-sldr-media-table.php:173
+msgid "Edit more details"
+msgstr "Indiquer plus de détails"
+
+#: includes/class-sldr-media-table.php:175
+msgid "Remove from Slider"
+msgstr "Retirer du curseur"
+
+#: includes/class-sldr-settings.php:34 includes/class-sldr-settings.php:41
+#: slider-bws.php:1547 slider-bws.php:1571
+#, fuzzy
+msgid "Settings"
+msgstr "Paramètres"
+
+#: includes/class-sldr-settings.php:35
+msgid "Misc"
+msgstr "Divers"
+
+#: includes/class-sldr-settings.php:36
+msgid "Custom Code"
+msgstr "Code personnalisé"
+
+#: includes/class-sldr-settings.php:95
+msgid "Settings saved."
+msgstr "Paramètres sauvegardés."
+
+#: includes/class-sldr-settings.php:110
+msgid "Slider Images"
+msgstr "Images du Carrousel"
+
+#: includes/class-sldr-settings.php:115
+msgid "Adding images requires JavaScript."
+msgstr "L'ajout d'images nécessite JavaScript."
+
+#: includes/class-sldr-settings.php:118
+msgid "Add Media"
+msgstr "Ajouter un média"
+
+#: includes/class-sldr-settings.php:137
+msgid "Slider Settings"
+msgstr "Paramètres du Slider"
+
+#: includes/class-sldr-settings.php:143
+msgid "Lazy Load"
+msgstr "Chargement différé"
+
+#: includes/class-sldr-settings.php:147
+msgid ""
+"Enable to delay images loading (recommend for sliders with lots of slides). "
+"Images will not be loaded until they are in outside of viewport."
+msgstr ""
+"Permet de retarder le chargement des images (recommandé pour les sliders "
+"avec beaucoup de diapositives). Les images ne seront pas chargées tant "
+"qu'elles ne seront pas en dehors de la fenêtre de visualisation."
+
+#: includes/class-sldr-settings.php:152
+msgid "Auto Height"
+msgstr "Hauteur automatique"
+
+#: includes/class-sldr-settings.php:156
+msgid ""
+"Enable to change slider height automatically (according to the hight of the "
+"slide)."
+msgstr ""
+"Permet de modifier automatiquement la hauteur du curseur (en fonction de la "
+"hauteur de la diapositive)."
+
+#: includes/class-sldr-settings.php:166
+msgid "Homepage Slider"
+msgstr "Slider de la page d'accueil"
+
+#: includes/class-sldr-settings.php:170
+#, fuzzy
+msgid "None"
+msgstr "Aucun"
+
+#: includes/class-sldr-settings.php:191
+msgid "Autoplay"
+msgstr "Lecture automatique"
+
+#: includes/class-sldr-settings.php:194
+msgid "Enable to turn autoplay on for the slideshow."
+msgstr "Permet d'activer la lecture automatique du diaporama."
+
+#: includes/class-sldr-settings.php:199
+msgid "Autoplay Timeout"
+msgstr "Delai de lecture automatique"
+
+#: includes/class-sldr-settings.php:202
+msgid "sec"
+msgstr "sec"
+
+#: includes/class-sldr-settings.php:207
+msgid "Autoplay Pause"
+msgstr "Lecture automatique Pause"
+
+#: includes/class-sldr-settings.php:211
+msgid "Enable to pause autoplay on mouse hover."
+msgstr ""
+"Permet de mettre en pause la lecture automatique au passage de la souris."
+
+#: includes/class-sldr-settings.php:216
+msgid "Loop"
+msgstr "Boucle"
+
+#: includes/class-sldr-settings.php:220
+msgid "Enable to loop the slideshow."
+msgstr "Activer la mise en boucle du diaporama."
+
+#: includes/class-sldr-settings.php:225
+msgid "Navigation"
+msgstr "Navigation"
+
+#: includes/class-sldr-settings.php:230
+msgid "Arrows"
+msgstr "Flèches"
+
+#: includes/class-sldr-settings.php:235
+msgid "Dots"
+msgstr "Points"
+
+#: includes/class-sldr-settings.php:241
+msgid "Number of Visible Images"
+msgstr "Nombre d'images visibles"
+
+#: includes/class-sldr-settings.php:245
+msgid "Image(-s) per slide"
+msgstr "Image(s) par diapositive"
+
+#: includes/class-sldr-settings.php:250
+msgid "Height Type"
+msgstr "Hauteur Type"
+
+#: includes/class-sldr-settings.php:255
+msgid "Auto height"
+msgstr "Hauteur automatique"
+
+#: includes/class-sldr-settings.php:260 includes/class-sldr-settings.php:266
+msgid "Custom height"
+msgstr "Hauteur personnalisée"
+
+#: slider-bws.php:47 slider-bws.php:326
+msgid "Sliders"
+msgstr "Sliders"
+
+#: slider-bws.php:48
+msgid "Add new"
+msgstr "Ajouter"
+
+#: slider-bws.php:48 slider-bws.php:328 slider-bws.php:570
+msgid "Add New"
+msgstr "Ajouter"
+
+#: slider-bws.php:49 slider-bws.php:608 slider-bws.php:695
+msgid "Slider Categories"
+msgstr "Catégories de diaporama"
+
+#: slider-bws.php:50 slider-bws.php:853
+msgid "Slider Global Settings"
+msgstr "Paramètres globaux du curseur"
+
+#: slider-bws.php:50
+msgid "Global Settings"
+msgstr "Paramètres globaux"
+
+#: slider-bws.php:319
+msgid "Slider deleted."
+msgstr "Diaporama supprimé."
+
+#: slider-bws.php:340
+msgid "Search Sliders"
+msgstr "Rechercher des diaporamas"
+
+#: slider-bws.php:563
+msgid "Slider updated."
+msgstr "Diaporama mis à jour."
+
+#: slider-bws.php:570
+msgid "Edit Slider"
+msgstr "Modifier le diaporama"
+
+#: slider-bws.php:572
+msgid "Add New Slider"
+msgstr "Ajouter un nouveau Slider"
+
+#: slider-bws.php:589
+msgid "Enter title here"
+msgstr "Entrez le titre ici"
+
+#: slider-bws.php:607 slider-bws.php:775
+msgid "Publish"
+msgstr "Publier"
+
+#: slider-bws.php:610
+msgid "Slider Shortcode"
+msgstr "Slider Shortcode"
+
+#: slider-bws.php:641
+msgid "Category deleted."
+msgstr "Catégorie supprimée."
+
+#: slider-bws.php:661
+msgid "Category updated."
+msgstr "Catégorie mise à jour."
+
+#: slider-bws.php:670
+msgid "Edit Category"
+msgstr "Modifier la catégorie"
+
+#: slider-bws.php:689 slider-bws.php:775
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: slider-bws.php:711
+msgid "Search Slider Categories"
+msgstr "Catégories du curseur de recherche"
+
+#: slider-bws.php:719
+msgid "Add New Slider Category"
+msgstr "Ajouter un nouveau Slider Catégorie"
+
+#: slider-bws.php:726 slider-bws.php:832
+msgid "Add New Category"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: slider-bws.php:756
+msgid ""
+"Add a slider to your posts, pages, custom post types or widgets by using the "
+"following shortcode:"
+msgstr ""
+"Ajoutez un slider à vos articles, pages, types d'articles personnalisés ou "
+"widgets en utilisant le shortcode suivant :"
+
+#: slider-bws.php:827
+msgid "No Slider Category Set"
+msgstr "Pas de catégorie de slider"
+
+#: slider-bws.php:856
+msgid "WARNING"
+msgstr "AVERTISSEMENT"
+
+#: slider-bws.php:856
+msgid "The plugin works correctly only if JavaScript is enabled."
+msgstr "Le plugin ne fonctionne correctement que si JavaScript est activé."
+
+#: slider-bws.php:909
+msgid "Warning"
+msgstr "Avertissement"
+
+#: slider-bws.php:909
+msgid ""
+"You can add only images or video (in format: MP4, WebM or Ogg) to the slider."
+msgstr ""
+"Vous pouvez ajouter uniquement des images ou des vidéos (au format MP4, WebM "
+"ou Ogg) à la barre de défilement."
+
+#: slider-bws.php:1019
+msgid "Sorry, no slider found."
+msgstr "Désolé, aucun curseur n'a été trouvé."
+
+#: slider-bws.php:1030
+msgid "slider category"
+msgstr "catégorie du curseur"
+
+#: slider-bws.php:1044
+msgid "Sorry, no sliders categories found."
+msgstr "Désolé, aucune catégorie de sliders n'a été trouvée."
+
+#: slider-bws.php:1385
+msgid "Sorry, nothing found."
+msgstr "Aucun résultat n'a été trouvé."
+
+#: slider-bws.php:1436
+msgid ""
+"You are about to remove these items from this slider.\n"
+" 'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"Vous êtes sur le point de supprimer ces articles de ce curseur.\n"
+" cliquez sur \"Annuler\" pour arrêter, sur \"OK\" pour supprimer."
+
+#: slider-bws.php:1437
+msgid ""
+"You are about to remove this item from the slider.\n"
+" 'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"Vous êtes sur le point de retirer cet élément du curseur.\n"
+" cliquez sur \"Annuler\" pour arrêter, sur \"OK\" pour supprimer."
+
+#: slider-bws.php:1438
+msgid "Insert Media"
+msgstr "Insérer un média"
+
+#: slider-bws.php:1439
+msgid "Insert"
+msgstr "Insérer"
+
+#: slider-bws.php:1440
+msgid "No images found"
+msgstr "Aucunes images trouvée"
+
+#: slider-bws.php:1497
+msgid "Category per page"
+msgstr "Catégories par page"
+
+#: slider-bws.php:1512
+msgid "Sliders per page"
+msgstr "Sliders par page"
+
+#: slider-bws.php:1548
+msgid "FAQ"
+msgstr "FAQ"
+
+#: slider-bws.php:1549
+msgid "Support"
+msgstr "Support"

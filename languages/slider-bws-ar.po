@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-10-04 15:43+0300\n"
+"PO-Revision-Date: 2024-10-04 15:43+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: includes/class-sldr-category-list-table.php:70
+#: includes/class-sldr-list-table.php:109
+msgid "Edit"
+msgstr "تعديل"
+
+#: includes/class-sldr-category-list-table.php:71
+#: includes/class-sldr-category-list-table.php:136
+#: includes/class-sldr-list-table.php:110
+#: includes/class-sldr-list-table.php:217
+msgid "Delete"
+msgstr "حذف"
+
+#: includes/class-sldr-category-list-table.php:103 slider-bws.php:682
+#: slider-bws.php:722
+msgid "Name"
+msgstr "الاسم"
+
+#: includes/class-sldr-category-list-table.php:104
+msgid "Count"
+msgstr "عد"
+
+#: includes/class-sldr-category-list-table.php:105
+#: includes/class-sldr-list-table.php:148
+msgid "Shortcode"
+msgstr "اختصار"
+
+#: includes/class-sldr-category-list-table.php:114
+msgid "No Categories Found"
+msgstr "لم يتم العثور علي التصنيفات"
+
+#: includes/class-sldr-list-table.php:21 slider-bws.php:1002
+msgid "slider"
+msgstr "الشرائح"
+
+#: includes/class-sldr-list-table.php:22
+msgid "sliders"
+msgstr "المتزلجون"
+
+#: includes/class-sldr-list-table.php:113 slider-bws.php:1010
+msgid "no title"
+msgstr "بلا عنوان"
+
+#: includes/class-sldr-list-table.php:144
+msgid "Thumbnail"
+msgstr "صورة مصغرة"
+
+#: includes/class-sldr-list-table.php:145
+#: includes/class-sldr-media-table.php:153
+msgid "Title"
+msgstr "العنوان"
+
+#: includes/class-sldr-list-table.php:146 includes/class-sldr-settings.php:40
+msgid "Images"
+msgstr "الصور"
+
+#: includes/class-sldr-list-table.php:147
+msgid "Category"
+msgstr "التصنيف"
+
+#: includes/class-sldr-list-table.php:149
+msgid "Date"
+msgstr "التاريخ"
+
+#: includes/class-sldr-list-table.php:158
+msgid "No Sliders Found"
+msgstr "لا يوجد عارض شرائح"
+
+#: includes/class-sldr-list-table.php:196
+msgid "All Categories"
+msgstr "جميع الفئات"
+
+#: includes/class-sldr-list-table.php:204
+msgid "Filter"
+msgstr "تصفية"
+
+#: includes/class-sldr-media-table.php:33
+msgid "No images found."
+msgstr "لا يوجد صور"
+
+#: includes/class-sldr-media-table.php:99
+msgid "Bulk Select"
+msgstr "السائبة اختر"
+
+#: includes/class-sldr-media-table.php:100
+msgid "Cancel Selection"
+msgstr "إلغاء التحديد"
+
+#: includes/class-sldr-media-table.php:101
+msgid "Delete Selected"
+msgstr "حذف المحدد"
+
+#: includes/class-sldr-media-table.php:131
+msgid "Remove Image from Slider"
+msgstr "إزالة الصورة من شريط التمرير"
+
+#: includes/class-sldr-media-table.php:134
+msgid "Edit Image Info"
+msgstr "تحرير معلومات الصورة"
+
+#: includes/class-sldr-media-table.php:135
+msgid "Deselect"
+msgstr "إلغاء الاختيار"
+
+#: includes/class-sldr-media-table.php:144
+msgid "File name"
+msgstr "اسم الملف"
+
+#: includes/class-sldr-media-table.php:145
+msgid "File type"
+msgstr "نوع الملف"
+
+#: includes/class-sldr-media-table.php:147
+msgid "Dimensions"
+msgstr "الأبعاد"
+
+#: includes/class-sldr-media-table.php:158
+msgid "Description"
+msgstr "الوصف"
+
+#: includes/class-sldr-media-table.php:162
+msgid "Button URL"
+msgstr "عنوان الزر"
+
+#: includes/class-sldr-media-table.php:167
+msgid "Button Text"
+msgstr "نص الزر"
+
+#: includes/class-sldr-media-table.php:173
+msgid "Edit more details"
+msgstr "مزيد من التفاصيل"
+
+#: includes/class-sldr-media-table.php:175
+msgid "Remove from Slider"
+msgstr "إزالة من شريط التمرير"
+
+#: includes/class-sldr-settings.php:34 includes/class-sldr-settings.php:41
+#: slider-bws.php:1547 slider-bws.php:1571
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: includes/class-sldr-settings.php:35
+msgid "Misc"
+msgstr "متفرقات"
+
+#: includes/class-sldr-settings.php:36
+msgid "Custom Code"
+msgstr "كود مخصص"
+
+#: includes/class-sldr-settings.php:95
+msgid "Settings saved."
+msgstr "تم حفظ الإعدادات."
+
+#: includes/class-sldr-settings.php:110
+msgid "Slider Images"
+msgstr "صور السلايدر"
+
+#: includes/class-sldr-settings.php:115
+msgid "Adding images requires JavaScript."
+msgstr "تتطلب إضافة الصور تتطلب JavaScript."
+
+#: includes/class-sldr-settings.php:118
+msgid "Add Media"
+msgstr "إضافة وسائط"
+
+#: includes/class-sldr-settings.php:137
+msgid "Slider Settings"
+msgstr "اعدادت عرض الشرائح"
+
+#: includes/class-sldr-settings.php:143
+msgid "Lazy Load"
+msgstr "تحميل بطيئ"
+
+#: includes/class-sldr-settings.php:147
+msgid ""
+"Enable to delay images loading (recommend for sliders with lots of slides). "
+"Images will not be loaded until they are in outside of viewport."
+msgstr ""
+"قم بتمكين تأخير تحميل الصور (يوصى به لشرائح التمرير التي تحتوي على الكثير من "
+"الشرائح). لن يتم تحميل الصور حتى تصبح خارج منفذ العرض."
+
+#: includes/class-sldr-settings.php:152
+msgid "Auto Height"
+msgstr "إرتفاع تلقائي"
+
+#: includes/class-sldr-settings.php:156
+msgid ""
+"Enable to change slider height automatically (according to the hight of the "
+"slide)."
+msgstr "تمكين تغيير ارتفاع شريط التمرير تلقائيًا (وفقًا لارتفاع الشريحة)."
+
+#: includes/class-sldr-settings.php:166
+msgid "Homepage Slider"
+msgstr "سلايدر الصفحة الرئيسية"
+
+#: includes/class-sldr-settings.php:170
+msgid "None"
+msgstr "لا شيء"
+
+#: includes/class-sldr-settings.php:191
+msgid "Autoplay"
+msgstr "تشغيل تلقائي"
+
+#: includes/class-sldr-settings.php:194
+msgid "Enable to turn autoplay on for the slideshow."
+msgstr "تمكين لتشغيل التشغيل التلقائي لعرض الشرائح."
+
+#: includes/class-sldr-settings.php:199
+msgid "Autoplay Timeout"
+msgstr "مهلة التشغيل التلقائي"
+
+#: includes/class-sldr-settings.php:202
+msgid "sec"
+msgstr "﻿ثانية"
+
+#: includes/class-sldr-settings.php:207
+msgid "Autoplay Pause"
+msgstr "إيقاف التشغيل التلقائي"
+
+#: includes/class-sldr-settings.php:211
+msgid "Enable to pause autoplay on mouse hover."
+msgstr "تمكين إيقاف التشغيل التلقائي مؤقتًا عند تمرير الماوس."
+
+#: includes/class-sldr-settings.php:216
+msgid "Loop"
+msgstr "حلقه"
+
+#: includes/class-sldr-settings.php:220
+msgid "Enable to loop the slideshow."
+msgstr "التمكين لتكرار عرض الشرائح."
+
+#: includes/class-sldr-settings.php:225
+msgid "Navigation"
+msgstr "التنقل"
+
+#: includes/class-sldr-settings.php:230
+msgid "Arrows"
+msgstr "الاسهم"
+
+#: includes/class-sldr-settings.php:235
+msgid "Dots"
+msgstr "النقاط"
+
+#: includes/class-sldr-settings.php:241
+msgid "Number of Visible Images"
+msgstr "عدد الصور المرئية"
+
+#: includes/class-sldr-settings.php:245
+msgid "Image(-s) per slide"
+msgstr "صورة (صور) لكل شريحة"
+
+#: includes/class-sldr-settings.php:250
+msgid "Height Type"
+msgstr "نوع الارتفاع"
+
+#: includes/class-sldr-settings.php:255
+msgid "Auto height"
+msgstr "ارتفاع تلقائي"
+
+#: includes/class-sldr-settings.php:260 includes/class-sldr-settings.php:266
+msgid "Custom height"
+msgstr "ارتفاع مخصص"
+
+#: slider-bws.php:47 slider-bws.php:326
+msgid "Sliders"
+msgstr "شرائح"
+
+#: slider-bws.php:48
+msgid "Add new"
+msgstr "إضافة جديد"
+
+#: slider-bws.php:48 slider-bws.php:328 slider-bws.php:570
+msgid "Add New"
+msgstr "اضف جديد"
+
+#: slider-bws.php:49 slider-bws.php:608 slider-bws.php:695
+msgid "Slider Categories"
+msgstr "فئات المنزلق"
+
+#: slider-bws.php:50 slider-bws.php:853
+msgid "Slider Global Settings"
+msgstr "الإعدادات العامة للمنزلق"
+
+#: slider-bws.php:50
+msgid "Global Settings"
+msgstr "اعدادات عامه"
+
+#: slider-bws.php:319
+msgid "Slider deleted."
+msgstr "تم حذف شريط التمرير."
+
+#: slider-bws.php:340
+msgid "Search Sliders"
+msgstr "بحث السلايدات"
+
+#: slider-bws.php:563
+msgid "Slider updated."
+msgstr "تم تعديل السلايدر."
+
+#: slider-bws.php:570
+msgid "Edit Slider"
+msgstr "تعديل شريحة عرض"
+
+#: slider-bws.php:572
+msgid "Add New Slider"
+msgstr "إضافة شريحة جديدة"
+
+#: slider-bws.php:589
+msgid "Enter title here"
+msgstr "ادخل العنوان هنا"
+
+#: slider-bws.php:607 slider-bws.php:775
+msgid "Publish"
+msgstr "نشر"
+
+#: slider-bws.php:610
+msgid "Slider Shortcode"
+msgstr "الكود المختصر للسلايدر"
+
+#: slider-bws.php:641
+msgid "Category deleted."
+msgstr "تم حذف الفئة."
+
+#: slider-bws.php:661
+msgid "Category updated."
+msgstr "تم تحديث الفئة."
+
+#: slider-bws.php:670
+msgid "Edit Category"
+msgstr "تعديل القسم"
+
+#: slider-bws.php:689 slider-bws.php:775
+msgid "Update"
+msgstr "تحديث"
+
+#: slider-bws.php:711
+msgid "Search Slider Categories"
+msgstr "بحث في فئات شريط التمرير"
+
+#: slider-bws.php:719
+msgid "Add New Slider Category"
+msgstr "إضافة فئة شريط تمرير جديد"
+
+#: slider-bws.php:726 slider-bws.php:832
+msgid "Add New Category"
+msgstr "إضافة فئة جديدة"
+
+#: slider-bws.php:756
+msgid ""
+"Add a slider to your posts, pages, custom post types or widgets by using the "
+"following shortcode:"
+msgstr ""
+"أضف شريط تمرير إلى مقالاتك أو صفحاتك أو أنواع مقالاتك المخصصة أو أدواتك "
+"الجانبية باستخدام الكود القصير التالي:"
+
+#: slider-bws.php:827
+msgid "No Slider Category Set"
+msgstr "لا توجد مجموعة فئات المنزلق"
+
+#: slider-bws.php:856
+msgid "WARNING"
+msgstr "تحذير"
+
+#: slider-bws.php:856
+msgid "The plugin works correctly only if JavaScript is enabled."
+msgstr "لا تعمل الإضافة بشكل صحيح إلا إذا تم تمكين JavaScript."
+
+#: slider-bws.php:909
+msgid "Warning"
+msgstr "تحذير"
+
+#: slider-bws.php:909
+msgid ""
+"You can add only images or video (in format: MP4, WebM or Ogg) to the slider."
+msgstr ""
+"يمكنك إضافة الصور أو الفيديو فقط (بصيغة: MP4 أو WebM أو Ogg) إلى شريط "
+"التمرير."
+
+#: slider-bws.php:1019
+msgid "Sorry, no slider found."
+msgstr "عذراً، لم يتم العثور على شريط التمرير."
+
+#: slider-bws.php:1030
+msgid "slider category"
+msgstr "فئة شريط التمرير"
+
+#: slider-bws.php:1044
+msgid "Sorry, no sliders categories found."
+msgstr "عذراً، لم يتم العثور على أي فئات منزلقات."
+
+#: slider-bws.php:1385
+msgid "Sorry, nothing found."
+msgstr "عذراً، لم يتم العثور على شيء."
+
+#: slider-bws.php:1436
+msgid ""
+"You are about to remove these items from this slider.\n"
+" 'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"أنت على وشك إزالة هذه العناصر من شريط التمرير هذا.\n"
+" 'إلغاء' للإيقاف، 'موافق' للحذف."
+
+#: slider-bws.php:1437
+msgid ""
+"You are about to remove this item from the slider.\n"
+" 'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"أنت على وشك إزالة هذا العنصر من شريط التمرير.\n"
+" 'إلغاء' للإيقاف، 'موافق' للحذف."
+
+#: slider-bws.php:1438
+msgid "Insert Media"
+msgstr "إدراج الوسائط"
+
+#: slider-bws.php:1439
+msgid "Insert"
+msgstr "إدراج"
+
+#: slider-bws.php:1440
+msgid "No images found"
+msgstr "لم يتم العثور على أي صور"
+
+#: slider-bws.php:1497
+msgid "Category per page"
+msgstr "فئة لكل صفحة"
+
+#: slider-bws.php:1512
+msgid "Sliders per page"
+msgstr "المتزلجون في كل صفحة"
+
+#: slider-bws.php:1548
+msgid "FAQ"
+msgstr "الأسئلة الشائعة"
+
+#: slider-bws.php:1549
+msgid "Support"
+msgstr "الدعم"

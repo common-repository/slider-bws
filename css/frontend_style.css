@@ -1,0 +1,205 @@
+/**
+ * Slider frontend styles
+ */
+.entry-content .sldr_wrapper {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.sldr_wrapper .owl-theme .owl-nav [class*="owl-"],
+.sldr_wrapper .owl-theme .owl-nav [class*="owl-"]:hover {
+	position: absolute;
+	bottom: 50%;
+	background: transparent;
+	outline: none;
+}
+.sldr_wrapper .owl-next i,
+.sldr_wrapper .owl-prev i {
+	font-family: dashicons;
+	font-size: 5em;
+	color: #fff;
+	opacity: 0.5;
+}
+.sldr_wrapper .owl-next i:hover,
+.sldr_wrapper .owl-prev i:hover {
+	opacity: 1;
+}
+.sldr_wrapper .owl-prev {
+	left: 0;
+	float: left;
+}
+.sldr_wrapper .owl-next {
+	right: 0;
+	float: right;
+}
+.sldr_wrapper .owl-carousel .dashicons,
+.sldr_wrapper .owl-carousel .dashicons-before::before {
+	width: auto;
+}
+.sldr_wrapper .owl-carousel .sldr_textoverlay h2,
+.sldr_wrapper .owl-carousel .sldr_textoverlay p,
+.sldr_wrapper .owl-carousel .sldr_textoverlay a {
+	position: absolute;
+	left: 10%;
+	color: #FFF;
+	display: inline-block;
+	overflow: hidden;
+	z-index: 1;
+}
+.sldr_wrapper .owl-carousel div .sldr_textoverlay h2 {
+	top: 10%;
+	font-size: 1.5em;
+}
+.sldr_wrapper .owl-carousel div .sldr_textoverlay p {
+	top: 38%;
+	font-size: 1em;
+	max-height: 35%;
+}
+.sldr_wrapper .owl-carousel div .sldr_textoverlay a {
+	padding: 0.5em;
+	top: 70%;
+	background: #000;
+	color: #fff;
+	text-decoration: none;
+	box-shadow: none;
+}
+.sldr_wrapper .owl-carousel div .sldr_textoverlay a:hover {
+	background: #007acc;
+}
+.sldr_wrapper .owl-carousel .sldr_textoverlay video {
+	max-width: 100%;
+}
+/* Style for booking search form */
+.sldr_bkng_wrapper {
+	margin-bottom: 15px;
+}
+
+.sldr_bkng_wrapper .crrntl_search_form_wrap {
+	margin-top: -125px;
+}
+
+.sldr_bkng_inline_form .crrntl_search_form_wrap {
+	margin-top: -110px;
+}
+
+.sldr_bkng_inline_form .crrntl_search_form_align_right .crrntl_search_form,
+.sldr_bkng_inline_form .crrntl_search_form_align_left .crrntl_search_form {
+	width: 80%;
+	margin: 0 auto;
+	float: none;
+}
+
+.sldr_bkng_inline_form .crrntl_form_img {
+	display: none;
+}
+
+.sldr_bkng_inline_form .crrntl_search_form_align_center .crrntl_search_form .bws_bkng_search_products_form,
+.sldr_bkng_inline_form .crrntl_search_form_align_left .crrntl_search_form .bws_bkng_search_products_form,
+.sldr_bkng_inline_form .crrntl_search_form_align_right .crrntl_search_form .bws_bkng_search_products_form {
+	display: inline-block;
+	padding: 15px;
+}
+
+.sldr_bkng_inline_form .bws_bkng_search_products_items {
+	display: inline-block;
+	width: 100%;
+	position: relative;
+}
+
+.sldr_bkng_inline_form .bws_bkng_search_products_item {
+	width: 14%;
+	display: block;
+	box-sizing: border-box;
+	padding-right: 4px;
+	float: left;
+}
+
+.sldr_bkng_inline_form .bws_bkng_search_products_categories {
+	padding-right: 0;
+}
+
+.sldr_bkng_inline_form .bws_bkng_search_products_item:nth-child(2) {
+	display: block;
+	width: 100%;
+	position: absolute;
+	top: 80%;
+	left: 0;
+}
+
+.sldr_bkng_inline_form .crrntl-return-different-location {
+	margin-left: 0;
+}
+
+.sldr_bkng_inline_form .bws_bkng_search_products_datepicker {
+	width: 50%;
+	max-width: 50%;
+	margin-left: 0;
+}
+
+.sldr_bkng_inline_form .bws_bkng_filter_datetimepicker {
+	display: block;
+	box-sizing: border-box;
+	padding-right: 4px;
+	width: 50%;
+	float: left;
+}
+
+.sldr_bkng_inline_form .bws_bkng_filter_datetimepicker_till {
+	padding-right: 0;
+}
+
+.sldr_bkng_inline_form .bws_bkng_filter_datetimepicker input {
+	padding: 13px 10px !important;
+}
+
+.sldr_bkng_inline_form .bws_bkng_search_products_form label {
+	padding: 0 0 5px;
+}
+
+.sldr_bkng_inline_form .bws_bkng_buttons {
+	clear: both;
+	float: right;
+}
+
+.sldr_bkng_inline_form .bws_bkng_buttons input {
+	margin: 0 4px;
+}
+
+.sldr_bkng_mobile_inline_view .bws_bkng_search_products_item {
+	width: 33% !important;
+}
+
+.sldr_bkng_mobile_inline_view .bws_bkng_search_products_categories {
+	display: inline-block;
+	float: none;
+}
+
+.sldr_bkng_mobile_inline_view .bws_bkng_search_products_datepicker {
+	width: 100% !important;
+	max-width: 100%;
+	margin-bottom: 15px;
+}
+
+.sldr_bkng_mobile_inline_view .bws_bkng_search_products_form p {
+	height: 58px;
+}
+
+.bws_bkng_theme_renty .sldr_bkng_mobile_inline_view .bws_bkng_search_products_form p {
+	height: auto;
+}
+
+.sldr_bkng_mobile_inline_view .bws_bkng_filter_datetimepicker p {
+	height: auto;
+}
+
+.sldr_bkng_mobile_inline_view .bws_bkng_search_products_item:nth-child(2) {
+	width: 50%;
+}
+.sldr_bkng_mobile_view .crrntl_search_form {
+	width: 90%;
+	margin: 0 auto;
+	float: none;
+}
+
+.sldr_bkng_mobile_view .crrntl_form_img {
+	display: none;
+}
